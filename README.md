@@ -3,6 +3,8 @@
 Een student management systeem gemaakt met Java als schoolproject SDE. Het (simpele) console programma wat wij gemaakt hebben biedt functionaliteiten zoals het toevoegen, verwijderen, bijwerken, opvragen en weergeven van studenten.
 Het programma bied verschillende design patterns zoals een creationeel ontwerppatroon, een structureel ontwerppatroon, en een gedragsontwerppatroon. Hieronder staat beschreven wat er allemaal met de applicatie gedaan kan worden in de console + verdere informatie over de ontwerppatronen.
 
+Ps. Zie de [activiteiten](https://github.com/AlexLamper/SDE/activity) van deze repo. (Via de commits is het niet duidelijk te zien vanwege het verwijderen van branches.)
+
 ## 🛠️ Functionaliteiten
 
 - Voeg nieuwe studenten toe met hun gegevens (naam, schoolnaam, adres, leeftijd en leerjaar).
